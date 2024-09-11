@@ -1,3 +1,5 @@
 pandas
 scikit-learn
 orange3
+seaborn
+statsmodels
