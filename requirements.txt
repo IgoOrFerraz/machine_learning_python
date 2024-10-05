@@ -5,3 +5,5 @@ seaborn
 statsmodels
 plotly
 yellowbrick
+apyori
+pyECLAT
