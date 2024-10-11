@@ -7,3 +7,4 @@ plotly
 yellowbrick
 apyori
 pyECLAT
+gym==0.17.3
